@@ -1,0 +1,6 @@
+body{font-family: 'IBM Plex Sans', sans-serif;}
+.navbar-brand{font-size: 200%;}
+#section-one{ background-color:#f1f1f1;
+text-align: center;
+}
+#img-1:hover{transform:scale(1.5);}
